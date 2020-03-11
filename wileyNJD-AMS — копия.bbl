@@ -1,0 +1,162 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem{Cao2018}
+W.~Cao et~al., \textit{{A dynamic subspace model for predicting burn-through
+  point in iron sintering process}}, Information Sciences  (2018), 1--12.
+
+\bibitem{Chen2017}
+X.~Chen et~al., \textit{{T-S Fuzzy Logic Based Modeling and Robust Control for
+  Burning-Through Point in Sintering Process}}, IEEE Transactions on Industrial
+  Electronics \textbf{64} (2017), 9378--9388.
+
+\bibitem{Wu-ShanCheng2005}
+W.~S. Cheng, \textit{An application of adaptive genetic-neural algorithm to
+  sinter's {BTP} process}, \textit{IEEE International Conference on Machine
+  Learning and Cybernetics}, Shanghai, China (2005), 3356--3360.
+
+\bibitem{Cheng2006}
+W.~S. Cheng, \textit{Prediction system of burning through point ({BTP}) based
+  on adaptive pattern clustering and feature map}, \textit{{I}nternational
+  {C}onference on {M}achine {L}earning and {C}ybernetics}, Dalian, China
+  (2006), 3089--3094.
+
+\bibitem{DengJ1989}
+{Deng J}, \textit{{Introduction to grey system}}, Journal of Grey System
+  \textbf{1} (1989), 1--24.
+
+\bibitem{Du2017}
+S.~Du et~al., \textit{{Intelligent coordinating control between burn-through
+  point and mixture bunker level in an iron ore sintering process}},
+  \textit{Journal of Advanced Computational Intelligence and Intelligent
+  Informatics \textbf{21} (2017)}, 140--147.
+
+\bibitem{Du2019}
+S.~Du et~al., \textit{A {F}uzzy {C}ontrol {S}trategy of {B}urn-{T}hrough
+  {P}oint {B}ased on the {F}eature {E}xtraction of {T}ime {S}eries {T}rend for
+  {I}ron {O}re {S}intering {P}rocess}, {IEEE} {T}ransactions on {I}ndustrial
+  {I}nformatics  (2019), 1--9.
+
+\bibitem{Du20191}
+S.~Du et~al., \textit{{Intelligent Integrated Control for Burn-Through Point to
+  Carbon Efficiency Optimization in Iron Ore Sintering Process}}, IEEE
+  Transactions on Control Systems Technology  (2019).
+
+\bibitem{Feng2000}
+Q.~Feng et~al., \textit{Adaptive prediction system of sintering through point
+  based on self-organize artificial neural network}, Transactions of Nonferrous
+  Metals Society of China (English Edition) \textbf{10} (2000), 804--807.
+
+\bibitem{Kaymak2017}
+Y.~Kaymak, T.~Hauck, and M.~Hillers, \textit{{Iron ore sintering process model
+  to study local permeability control}}, \textit{COMSOL Conference}, Rotterdam,
+  Netherlands (2017).
+
+\bibitem{Kennedy1995}
+J.~Kennedy and R.~Eberhart, \textit{{Particle Swarm Optmization}}, Neural
+  Networks  (1995).
+
+\bibitem{Kim2014}
+B.~Kim et~al., \textit{{E}stimation of {B}urn-{T}hrough {P}oint in the {S}inter
+  {P}rocess}, \textit{14th {I}nternational {C}onference on {C}ontrol,
+  {A}utomation and {S}ystems ({ICCAS} 2014)}, 1531--1533.
+
+\bibitem{Kwon1999}
+W.~H. Kwon et~al., \textit{{Event-Based modeling and control for the
+  burnthrough point in sintering processes}}, IEEE Transactions on Control
+  Systems Technology \textbf{7} (1999), 31--41.
+
+\bibitem{LiPeng2006}
+L.~Peng, Z.~Ji, and J.~Tan, \textit{Sintering finish point intelligent
+  control}, \textit{{IEEE/ASME} {I}nternational {C}onference on {A}dvanced
+  {I}ntelligent {M}echatronics (2006)}.
+
+\bibitem{Shang2010}
+X.~Q. Shang et~al., \textit{{Data-Driven Prediction of Sintering Burn-Through
+  Point Based on Novel Genetic Programming}}, Journal of Iron and Steel
+  Research International \textbf{17} (2010), 1--10.
+
+\bibitem{Shi2016}
+J.~Shi et~al., \textit{{Soft sensing of the burning through point in
+  iron-making process}}, \textit{IEEE International Conference on Cognitive
+  Informatics \& Cognitive Computing (ICCI*CC 2016)}, Palo Alto, CA, USA.
+
+\bibitem{Terpak2005}
+J.~Terpak et~al., \textit{{Control of burn-through point for agglomeration
+  belt}}, Metalurgia \textbf{44} (2000), 281--284.
+
+\bibitem{Tien2005}
+T.~L. Tien, \textit{{The indirect measurement of tensile strength of material
+  by the grey prediction model GMC(1, n)}}, Measurement Science and Technology
+  \textbf{16} (2005), 1322--1328.
+
+\bibitem{Tien2008}
+T.~L. Tien, \textit{{The indirect measurement of tensile strength for a higher
+  temperature by the new model IGDMC(1, n)}}, Measurement: Journal of the
+  International Measurement Confederation \textbf{41} (2008), 662--675.
+
+\bibitem{Tien2009}
+T.~L. Tien, \textit{{The deterministic grey dynamic model with convolution
+  integral DGDMC(1, n)}}, Applied Mathematical Modelling \textbf{33} (2009),
+  3498--3510.
+
+\bibitem{Tien2011}
+T.~L. Tien, \textit{{The indirect measurement of tensile strength by the new
+  model FGMC (1, n)}}, Measurement: Journal of the International Measurement
+  Confederation \textbf{44} (2011), 1884--1897.
+
+\bibitem{Tien2012}
+T.~L. Tien, \textit{{A research on the grey prediction model GM(1,n)}}, Applied
+  Mathematics and Computation \textbf{218} (2012), 4903--4916.
+
+\bibitem{Wang2009}
+B.~Wang et~al., \textit{{BTP prediction model based on ANN and regression
+  analysis}}, \textit{2nd International Workshop on Knowledge Discovery and
+  Data Mining (WKKD)}, Moscow, Russia (2009).
+
+\bibitem{Wang2013}
+C.~S. Wang and M.~Wu, \textit{{Hierarchical intelligent control system and its
+  application to the sintering process}}, IEEE Transactions on Industrial
+  Informatics \textbf{9} (2013), 190--196.
+
+\bibitem{Wang2018}
+D.~Wang et~al., \textit{{Application Research Based on GA-FWA in Prediction of
+  Sintering Burning Through Point}}, \textit{International Conference on
+  Computer, Communications and Mechatronics Engineering (2018)}, 378--385.
+
+\bibitem{Wang20141}
+J.~Wang et~al., \textit{{BTP prediction of sintering process by using multiple
+  models}}, \textit{26th Chinese Control and Decision Conference (CCDC 2014)},
+  Changsha, China (2014).
+
+\bibitem{Wang2014}
+Z.~X. Wang and L.~L. Pei, \textit{{An optimized grey dynamic model for
+  forecasting the output of high-tech industry in China}}, Mathematical
+  Problems in Engineering  (2014).
+
+\bibitem{Wu2006}
+M.~Wu, C.~H. Xu, and Y.~X. Du, \textit{{Intelligent optimal control for
+  lead-zinc sintering process state}}, Transactions of Nonferrous Metals
+  Society of China \textbf{16} (2006), 975--981.
+
+\bibitem{Wu2012b}
+M.~Wu et~al., \textit{{An intelligent control system based on prediction of the
+  burn-through point for the sintering process of an iron and steel plant}},
+  Expert Systems with Applications \textbf{39} (2012), 5971--5981.
+
+\bibitem{Wu2012a}
+M.~Wu et~al., \textit{{Design and application of generalized predictive control
+  strategy with closed-loop identification for burn-through point in sintering
+  process}}, Control Engineering Practice \textbf{20} (2012), 1065--1074.
+
+\bibitem{Wu2012}
+M.~Wu et~al., \textit{{Neural-network-based integrated model for predicting
+  burn-through point in lead-zinc sintering process}}, Journal of Process
+  Control \textbf{22} (2012), 925--934.
+
+\end{thebibliography}
